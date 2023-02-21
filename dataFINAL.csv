@@ -1,0 +1,291 @@
+SkaterID,Category,JudgeScore,DifficultyRating,Firstname,SchoolName,DOB,CategoryID,MoveID,SchoolID,Gender,Surname,Move
+7,Free Style,3,2,Isidro,Jackson Free School,14/02/2000,FS,18,7,M,Thaler,Ina Bauer
+16,Free Style,2,2,Kacie,Jackson Free School,23/11/2000,FS,19,7,F,Mcewan,Serpentine Step
+17,Free Style,3,2,Brittaney,Prospect Secondary School,14/01/2005,FS,19,3,F,Webber,Serpentine Step
+18,Free Style,2,2,Lanny,Forest Secondary School,17/06/2001,FS,19,9,M,Brune,Serpentine Step
+19,Free Style,1,2,Cecil,Hartle Sixth Form,03/04/2002,FS,19,4,M,Wiltz,Serpentine Step
+20,Free Style,3,2,Royce,Atlantic Free School,02/02/2006,FS,19,8,M,Mcbeth,Serpentine Step
+22,Free Style,3,2,Lurlene,Canterbury Free School,19/02/2005,FS,19,2,F,Smitherman,Serpentine Step
+25,Free Style,1,2,Darin,Hill Academy,06/12/2006,FS,19,1,M,Rather,Serpentine Step
+28,Free Style,6,2,Sanjuanita,Hartle Sixth Form,01/06/2007,FS,19,4,F,Bradham,Serpentine Step
+29,Free Style,1,2,Tameka,Arch Secondary School,18/06/2003,FS,19,5,F,Collelo,Serpentine Step
+32,Free Style,4,2,Evalyn,Hartle Sixth Form,07/08/2006,FS,19,4,F,Tedder,Serpentine Step
+42,Free Style,6,2,Kortney,Forest Secondary School,16/07/2000,FS,19,9,F,Scanlon,Serpentine Step
+44,Free Style,2,2,Kiara,Atlantic Free School,05/04/2004,FS,19,8,F,Goldie,Serpentine Step
+45,Free Style,2,2,Thresa,Hill Academy,21/10/2001,FS,19,1,F,Dingess,Serpentine Step
+47,Free Style,5,2,Gilberto,Hartle Sixth Form,15/05/2001,FS,19,4,M,Fontes,Serpentine Step
+7,Free Style,5,2,Isidro,Jackson Free School,14/02/2000,FS,19,7,M,Thaler,Serpentine Step
+15,Free Style,6,1,Marceline,Hill Academy,19/02/2000,FS,20,1,F,Doane,Forward Free Skate
+19,Free Style,6,1,Cecil,Hartle Sixth Form,03/04/2002,FS,20,4,M,Wiltz,Forward Free Skate
+26,Free Style,3,1,Hassan,Forest Secondary School,21/11/2003,FS,20,9,M,Bavaro,Forward Free Skate
+27,Free Style,6,1,Fernando,Forest Secondary School,13/10/2006,FS,20,9,M,Burchfield,Forward Free Skate
+15,Free Style,6,1,Marceline,Hill Academy,19/02/2000,FS,17,1,F,Doane,Forward loops
+21,Free Style,6,1,Victor,Forest Secondary School,21/07/2005,FS,17,9,M,Gieseke,Forward loops
+29,Free Style,3,1,Tameka,Arch Secondary School,18/06/2003,FS,17,5,F,Collelo,Forward loops
+34,Free Style,3,1,Garfield,Elm Academy,01/10/2000,FS,17,6,M,Fajardo,Forward loops
+37,Free Style,5,1,Deloise,Prospect Secondary School,26/05/2007,FS,17,3,F,David,Forward loops
+39,Free Style,3,1,Karen,Jackson Free School,28/06/2003,FS,17,7,F,Westervelt,Forward loops
+40,Free Style,2,1,Cornelia,Atlantic Free School,26/06/2007,FS,17,8,F,Shoemaker,Forward loops
+43,Free Style,2,1,Lorenza,Hartle Sixth Form,26/02/2002,FS,17,4,F,Kasprzak,Forward loops
+46,Free Style,5,1,Arnoldo,Elm Academy,08/05/2005,FS,17,6,M,Janecek,Forward loops
+5,Free Style,3,1,Hermila,Arch Secondary School,05/04/2000,FS,17,5,F,Guse,Forward loops
+6,Free Style,3,1,Glen,Hill Academy,11/11/2003,FS,17,1,M,Derksen,Forward loops
+8,Free Style,4,1,Norman,Atlantic Free School,10/05/2003,FS,17,8,M,Krok,Forward loops
+9,Free Style,1,1,Benita,Arch Secondary School,10/02/2001,FS,17,5,F,Arvin,Forward loops
+13,Free Style,6,2,Edward,Atlantic Free School,14/08/2002,FS,18,8,M,Wallace,Ina Bauer
+26,Free Style,5,2,Hassan,Forest Secondary School,21/11/2003,FS,18,9,M,Bavaro,Ina Bauer
+28,Free Style,3,2,Sanjuanita,Hartle Sixth Form,01/06/2007,FS,18,4,F,Bradham,Ina Bauer
+31,Free Style,5,2,Mellisa,Atlantic Free School,15/02/2001,FS,18,8,F,Telles,Ina Bauer
+35,Free Style,4,2,Tammera,Elm Academy,18/03/2005,FS,18,6,F,Parham,Ina Bauer
+4,Free Style,1,2,Larhonda,Jackson Free School,13/10/2003,FS,18,7,F,Mancino,Ina Bauer
+43,Free Style,1,2,Lorenza,Hartle Sixth Form,26/02/2002,FS,18,4,F,Kasprzak,Ina Bauer
+49,Free Style,2,2,Florentina,Hill Academy,22/07/2003,FS,18,1,F,Silverman,Ina Bauer
+1,Free Style,4,2,Sheldon,Prospect Secondary School,21/12/2001,FS,19,3,M,Atkin,Serpentine Step
+1,Free Style,3,1,Sheldon,Prospect Secondary School,21/12/2001,FS,20,3,M,Atkin,Forward Free Skate
+1,Spin,6,3,Sheldon,Prospect Secondary School,21/12/2001,SP,15,3,M,Atkin,Flying
+1,Spin,6,2,Sheldon,Prospect Secondary School,21/12/2001,SP,9,3,M,Atkin,Camel
+1,Jump,6,2,Sheldon,Prospect Secondary School,21/12/2001,JU,4,3,M,Atkin,Double Loop
+1,Free Style,6,1,Sheldon,Prospect Secondary School,21/12/2001,FS,17,3,M,Atkin,Forward loops
+29,Free Style,1,1,Tameka,Arch Secondary School,18/06/2003,FS,20,5,F,Collelo,Forward Free Skate
+36,Free Style,5,1,Walton,Jackson Free School,10/03/2005,FS,20,7,M,Coney,Forward Free Skate
+38,Free Style,4,1,Kaitlyn,Arch Secondary School,15/02/2004,FS,20,5,F,Glessner,Forward Free Skate
+41,Free Style,1,1,Chantell,Jackson Free School,27/12/2006,FS,20,7,F,Dorazio,Forward Free Skate
+46,Free Style,3,1,Arnoldo,Elm Academy,08/05/2005,FS,20,6,M,Janecek,Forward Free Skate
+15,Free Style,1,1,Marceline,Hill Academy,19/02/2000,FS,21,1,F,Doane,Cross Strokes
+16,Free Style,2,1,Kacie,Jackson Free School,23/11/2000,FS,21,7,F,Mcewan,Cross Strokes
+17,Free Style,5,1,Brittaney,Prospect Secondary School,14/01/2005,FS,21,3,F,Webber,Cross Strokes
+21,Free Style,5,1,Victor,Forest Secondary School,21/07/2005,FS,21,9,M,Gieseke,Cross Strokes
+24,Free Style,5,1,Sidney,Hill Academy,11/07/2001,FS,21,1,M,Mcgoldrick,Cross Strokes
+31,Free Style,5,1,Mellisa,Atlantic Free School,15/02/2001,FS,21,8,F,Telles,Cross Strokes
+33,Free Style,6,1,Harriett,Atlantic Free School,28/11/2006,FS,21,8,F,Kettner,Cross Strokes
+37,Free Style,4,1,Deloise,Prospect Secondary School,26/05/2007,FS,21,3,F,David,Cross Strokes
+39,Free Style,6,1,Karen,Jackson Free School,28/06/2003,FS,21,7,F,Westervelt,Cross Strokes
+42,Free Style,1,1,Kortney,Forest Secondary School,16/07/2000,FS,21,9,F,Scanlon,Cross Strokes
+44,Free Style,6,1,Kiara,Atlantic Free School,05/04/2004,FS,21,8,F,Goldie,Cross Strokes
+47,Free Style,6,1,Gilberto,Hartle Sixth Form,15/05/2001,FS,21,4,M,Fontes,Cross Strokes
+17,Free Style,4,1,Brittaney,Prospect Secondary School,14/01/2005,FS,22,3,F,Webber,Backward Rocker
+21,Free Style,1,1,Victor,Forest Secondary School,21/07/2005,FS,22,9,M,Gieseke,Backward Rocker
+25,Free Style,2,1,Darin,Hill Academy,06/12/2006,FS,22,1,M,Rather,Backward Rocker
+27,Free Style,5,1,Fernando,Forest Secondary School,13/10/2006,FS,22,9,M,Burchfield,Backward Rocker
+31,Free Style,2,1,Mellisa,Atlantic Free School,15/02/2001,FS,22,8,F,Telles,Backward Rocker
+34,Free Style,1,1,Garfield,Elm Academy,01/10/2000,FS,22,6,M,Fajardo,Backward Rocker
+36,Free Style,5,1,Walton,Jackson Free School,10/03/2005,FS,22,7,M,Coney,Backward Rocker
+38,Free Style,3,1,Kaitlyn,Arch Secondary School,15/02/2004,FS,22,5,F,Glessner,Backward Rocker
+39,Free Style,2,1,Karen,Jackson Free School,28/06/2003,FS,22,7,F,Westervelt,Backward Rocker
+40,Free Style,1,1,Cornelia,Atlantic Free School,26/06/2007,FS,22,8,F,Shoemaker,Backward Rocker
+41,Free Style,6,1,Chantell,Jackson Free School,27/12/2006,FS,22,7,F,Dorazio,Backward Rocker
+43,Free Style,4,1,Lorenza,Hartle Sixth Form,26/02/2002,FS,22,4,F,Kasprzak,Backward Rocker
+16,Free Style,4,2,Kacie,Jackson Free School,23/11/2000,FS,23,7,F,Mcewan,Choctaw Sequence
+17,Free Style,4,2,Brittaney,Prospect Secondary School,14/01/2005,FS,23,3,F,Webber,Choctaw Sequence
+18,Free Style,2,2,Lanny,Forest Secondary School,17/06/2001,FS,23,9,M,Brune,Choctaw Sequence
+19,Free Style,5,2,Cecil,Hartle Sixth Form,03/04/2002,FS,23,4,M,Wiltz,Choctaw Sequence
+22,Free Style,1,2,Lurlene,Canterbury Free School,19/02/2005,FS,23,2,F,Smitherman,Choctaw Sequence
+24,Free Style,5,2,Sidney,Hill Academy,11/07/2001,FS,23,1,M,Mcgoldrick,Choctaw Sequence
+29,Free Style,3,2,Tameka,Arch Secondary School,18/06/2003,FS,23,5,F,Collelo,Choctaw Sequence
+30,Free Style,4,2,Hung,Arch Secondary School,25/12/2006,FS,23,5,M,Lebel,Choctaw Sequence
+35,Free Style,6,2,Tammera,Elm Academy,18/03/2005,FS,23,6,F,Parham,Choctaw Sequence
+39,Free Style,5,2,Karen,Jackson Free School,28/06/2003,FS,23,7,F,Westervelt,Choctaw Sequence
+40,Free Style,6,2,Cornelia,Atlantic Free School,26/06/2007,FS,23,8,F,Shoemaker,Choctaw Sequence
+44,Free Style,3,2,Kiara,Atlantic Free School,05/04/2004,FS,23,8,F,Goldie,Choctaw Sequence
+48,Free Style,4,2,Arletta,Canterbury Free School,20/03/2001,FS,23,2,F,Abalos,Choctaw Sequence
+13,Jump,5,2,Edward,Atlantic Free School,14/08/2002,JU,2,8,M,Wallace,Double Axel
+23,Jump,4,2,Delilah,Arch Secondary School,19/02/2000,JU,2,5,F,Fagundes,Double Axel
+24,Jump,5,2,Sidney,Hill Academy,11/07/2001,JU,2,1,M,Mcgoldrick,Double Axel
+27,Jump,5,2,Fernando,Forest Secondary School,13/10/2006,JU,2,9,M,Burchfield,Double Axel
+3,Jump,3,2,Rochelle,Canterbury Free School,06/11/2002,JU,2,2,F,Meche,Double Axel
+33,Jump,6,2,Harriett,Atlantic Free School,28/11/2006,JU,2,8,F,Kettner,Double Axel
+35,Jump,2,2,Tammera,Elm Academy,18/03/2005,JU,2,6,F,Parham,Double Axel
+5,Jump,2,2,Hermila,Arch Secondary School,05/04/2000,JU,2,5,F,Guse,Double Axel
+2,Jump,2,2,Shannon,Hartle Sixth Form,23/02/2004,JU,2,4,M,Toledo,Double Axel
+10,Jump,1,1,Terrilyn,Hill Academy,18/12/2006,JU,3,1,F,Delozier,Single Loop
+14,Jump,3,1,Lue,Hartle Sixth Form,13/12/2006,JU,3,4,F,Sherburne,Single Loop
+18,Jump,1,1,Lanny,Forest Secondary School,17/06/2001,JU,3,9,M,Brune,Single Loop
+20,Jump,4,1,Royce,Atlantic Free School,02/02/2006,JU,3,8,M,Mcbeth,Single Loop
+23,Jump,5,1,Delilah,Arch Secondary School,19/02/2000,JU,3,5,F,Fagundes,Single Loop
+26,Jump,3,1,Hassan,Forest Secondary School,21/11/2003,JU,3,9,M,Bavaro,Single Loop
+32,Jump,3,1,Evalyn,Hartle Sixth Form,07/08/2006,JU,3,4,F,Tedder,Single Loop
+33,Jump,4,1,Harriett,Atlantic Free School,28/11/2006,JU,3,8,F,Kettner,Single Loop
+34,Jump,5,1,Garfield,Elm Academy,01/10/2000,JU,3,6,M,Fajardo,Single Loop
+35,Jump,5,1,Tammera,Elm Academy,18/03/2005,JU,3,6,F,Parham,Single Loop
+44,Jump,5,1,Kiara,Atlantic Free School,05/04/2004,JU,3,8,F,Goldie,Single Loop
+46,Jump,2,1,Arnoldo,Elm Academy,08/05/2005,JU,3,6,M,Janecek,Single Loop
+48,Jump,2,1,Arletta,Canterbury Free School,20/03/2001,JU,3,2,F,Abalos,Single Loop
+5,Jump,1,1,Hermila,Arch Secondary School,05/04/2000,JU,3,5,F,Guse,Single Loop
+7,Jump,4,1,Isidro,Jackson Free School,14/02/2000,JU,3,7,M,Thaler,Single Loop
+8,Jump,1,1,Norman,Atlantic Free School,10/05/2003,JU,3,8,M,Krok,Single Loop
+10,Jump,6,2,Terrilyn,Hill Academy,18/12/2006,JU,4,1,F,Delozier,Double Loop
+11,Jump,5,2,Clark,Arch Secondary School,25/10/2001,JU,4,5,M,Tatro,Double Loop
+16,Jump,3,2,Kacie,Jackson Free School,23/11/2000,JU,4,7,F,Mcewan,Double Loop
+22,Jump,3,2,Lurlene,Canterbury Free School,19/02/2005,JU,4,2,F,Smitherman,Double Loop
+27,Jump,2,2,Fernando,Forest Secondary School,13/10/2006,JU,4,9,M,Burchfield,Double Loop
+31,Jump,2,2,Mellisa,Atlantic Free School,15/02/2001,JU,4,8,F,Telles,Double Loop
+32,Jump,1,2,Evalyn,Hartle Sixth Form,07/08/2006,JU,4,4,F,Tedder,Double Loop
+36,Jump,1,2,Walton,Jackson Free School,10/03/2005,JU,4,7,M,Coney,Double Loop
+38,Jump,1,2,Kaitlyn,Arch Secondary School,15/02/2004,JU,4,5,F,Glessner,Double Loop
+41,Jump,2,2,Chantell,Jackson Free School,27/12/2006,JU,4,7,F,Dorazio,Double Loop
+45,Jump,3,2,Thresa,Hill Academy,21/10/2001,JU,4,1,F,Dingess,Double Loop
+48,Jump,1,2,Arletta,Canterbury Free School,20/03/2001,JU,4,2,F,Abalos,Double Loop
+7,Jump,5,2,Isidro,Jackson Free School,14/02/2000,JU,4,7,M,Thaler,Double Loop
+10,Jump,2,1,Terrilyn,Hill Academy,18/12/2006,JU,5,1,F,Delozier,Single Lutz
+16,Jump,5,1,Kacie,Jackson Free School,23/11/2000,JU,5,7,F,Mcewan,Single Lutz
+20,Jump,4,1,Royce,Atlantic Free School,02/02/2006,JU,5,8,M,Mcbeth,Single Lutz
+30,Jump,3,1,Hung,Arch Secondary School,25/12/2006,JU,5,5,M,Lebel,Single Lutz
+34,Jump,2,1,Garfield,Elm Academy,01/10/2000,JU,5,6,M,Fajardo,Single Lutz
+36,Jump,6,1,Walton,Jackson Free School,10/03/2005,JU,5,7,M,Coney,Single Lutz
+4,Jump,5,1,Larhonda,Jackson Free School,13/10/2003,JU,5,7,F,Mancino,Single Lutz
+40,Jump,3,1,Cornelia,Atlantic Free School,26/06/2007,JU,5,8,F,Shoemaker,Single Lutz
+41,Jump,1,1,Chantell,Jackson Free School,27/12/2006,JU,5,7,F,Dorazio,Single Lutz
+48,Jump,5,1,Arletta,Canterbury Free School,20/03/2001,JU,5,2,F,Abalos,Single Lutz
+8,Jump,2,1,Norman,Atlantic Free School,10/05/2003,JU,5,8,M,Krok,Single Lutz
+10,Jump,3,2,Terrilyn,Hill Academy,18/12/2006,JU,6,1,F,Delozier,Double Lutz
+12,Jump,4,2,Shad,Jackson Free School,12/03/2001,JU,6,7,M,Human,Double Lutz
+14,Jump,5,2,Lue,Hartle Sixth Form,13/12/2006,JU,6,4,F,Sherburne,Double Lutz
+20,Jump,6,2,Royce,Atlantic Free School,02/02/2006,JU,6,8,M,Mcbeth,Double Lutz
+23,Jump,6,2,Delilah,Arch Secondary School,19/02/2000,JU,6,5,F,Fagundes,Double Lutz
+28,Jump,4,2,Sanjuanita,Hartle Sixth Form,01/06/2007,JU,6,4,F,Bradham,Double Lutz
+30,Jump,3,2,Hung,Arch Secondary School,25/12/2006,JU,6,5,M,Lebel,Double Lutz
+32,Jump,6,2,Evalyn,Hartle Sixth Form,07/08/2006,JU,6,4,F,Tedder,Double Lutz
+36,Jump,3,2,Walton,Jackson Free School,10/03/2005,JU,6,7,M,Coney,Double Lutz
+4,Jump,4,2,Larhonda,Jackson Free School,13/10/2003,JU,6,7,F,Mancino,Double Lutz
+41,Jump,2,2,Chantell,Jackson Free School,27/12/2006,JU,6,7,F,Dorazio,Double Lutz
+45,Jump,3,2,Thresa,Hill Academy,21/10/2001,JU,6,1,F,Dingess,Double Lutz
+47,Jump,3,2,Gilberto,Hartle Sixth Form,15/05/2001,JU,6,4,M,Fontes,Double Lutz
+49,Jump,4,2,Florentina,Hill Academy,22/07/2003,JU,6,1,F,Silverman,Double Lutz
+5,Jump,6,2,Hermila,Arch Secondary School,05/04/2000,JU,6,5,F,Guse,Double Lutz
+7,Jump,3,2,Isidro,Jackson Free School,14/02/2000,JU,6,7,M,Thaler,Double Lutz
+8,Jump,2,2,Norman,Atlantic Free School,10/05/2003,JU,6,8,M,Krok,Double Lutz
+11,Jump,6,3,Clark,Arch Secondary School,25/10/2001,JU,7,5,M,Tatro,Triple Lutz
+20,Jump,3,3,Royce,Atlantic Free School,02/02/2006,JU,7,8,M,Mcbeth,Triple Lutz
+29,Jump,1,3,Tameka,Arch Secondary School,18/06/2003,JU,7,5,F,Collelo,Triple Lutz
+3,Jump,6,3,Rochelle,Canterbury Free School,06/11/2002,JU,7,2,F,Meche,Triple Lutz
+30,Jump,2,3,Hung,Arch Secondary School,25/12/2006,JU,7,5,M,Lebel,Triple Lutz
+33,Jump,6,3,Harriett,Atlantic Free School,28/11/2006,JU,7,8,F,Kettner,Triple Lutz
+43,Jump,6,3,Lorenza,Hartle Sixth Form,26/02/2002,JU,7,4,F,Kasprzak,Triple Lutz
+9,Jump,6,3,Benita,Arch Secondary School,10/02/2001,JU,7,5,F,Arvin,Triple Lutz
+16,Jump,4,1,Kacie,Jackson Free School,23/11/2000,JU,1,7,F,Mcewan,Single Axel
+19,Jump,5,1,Cecil,Hartle Sixth Form,03/04/2002,JU,1,4,M,Wiltz,Single Axel
+23,Jump,3,1,Delilah,Arch Secondary School,19/02/2000,JU,1,5,F,Fagundes,Single Axel
+24,Jump,4,1,Sidney,Hill Academy,11/07/2001,JU,1,1,M,Mcgoldrick,Single Axel
+25,Jump,4,1,Darin,Hill Academy,06/12/2006,JU,1,1,M,Rather,Single Axel
+28,Jump,1,1,Sanjuanita,Hartle Sixth Form,01/06/2007,JU,1,4,F,Bradham,Single Axel
+30,Jump,2,1,Hung,Arch Secondary School,25/12/2006,JU,1,5,M,Lebel,Single Axel
+33,Jump,3,1,Harriett,Atlantic Free School,28/11/2006,JU,1,8,F,Kettner,Single Axel
+46,Jump,3,1,Arnoldo,Elm Academy,08/05/2005,JU,1,6,M,Janecek,Single Axel
+47,Jump,3,1,Gilberto,Hartle Sixth Form,15/05/2001,JU,1,4,M,Fontes,Single Axel
+2,Jump,3,1,Shannon,Hartle Sixth Form,23/02/2004,JU,1,4,M,Toledo,Single Axel
+12,Spin,3,1,Shad,Jackson Free School,12/03/2001,SP,12,7,M,Human,Forward Scratch
+21,Spin,3,1,Victor,Forest Secondary School,21/07/2005,SP,12,9,M,Gieseke,Forward Scratch
+29,Spin,4,1,Tameka,Arch Secondary School,18/06/2003,SP,12,5,F,Collelo,Forward Scratch
+30,Spin,1,1,Hung,Arch Secondary School,25/12/2006,SP,12,5,M,Lebel,Forward Scratch
+40,Spin,4,1,Cornelia,Atlantic Free School,26/06/2007,SP,12,8,F,Shoemaker,Forward Scratch
+44,Spin,2,1,Kiara,Atlantic Free School,05/04/2004,SP,12,8,F,Goldie,Forward Scratch
+11,Spin,4,2,Clark,Arch Secondary School,25/10/2001,SP,13,5,M,Tatro,Back
+14,Spin,3,2,Lue,Hartle Sixth Form,13/12/2006,SP,13,4,F,Sherburne,Back
+15,Spin,2,2,Marceline,Hill Academy,19/02/2000,SP,13,1,F,Doane,Back
+18,Spin,1,2,Lanny,Forest Secondary School,17/06/2001,SP,13,9,M,Brune,Back
+3,Spin,2,2,Rochelle,Canterbury Free School,06/11/2002,SP,13,2,F,Meche,Back
+31,Spin,2,2,Mellisa,Atlantic Free School,15/02/2001,SP,13,8,F,Telles,Back
+32,Spin,2,2,Evalyn,Hartle Sixth Form,07/08/2006,SP,13,4,F,Tedder,Back
+35,Spin,3,2,Tammera,Elm Academy,18/03/2005,SP,13,6,F,Parham,Back
+37,Spin,2,2,Deloise,Prospect Secondary School,26/05/2007,SP,13,3,F,David,Back
+39,Spin,5,2,Karen,Jackson Free School,28/06/2003,SP,13,7,F,Westervelt,Back
+43,Spin,4,2,Lorenza,Hartle Sixth Form,26/02/2002,SP,13,4,F,Kasprzak,Back
+6,Spin,1,2,Glen,Hill Academy,11/11/2003,SP,13,1,M,Derksen,Back
+11,Spin,1,1,Clark,Arch Secondary School,25/10/2001,SP,14,5,M,Tatro,Solo
+12,Spin,2,1,Shad,Jackson Free School,12/03/2001,SP,14,7,M,Human,Solo
+13,Spin,5,1,Edward,Atlantic Free School,14/08/2002,SP,14,8,M,Wallace,Solo
+21,Spin,4,1,Victor,Forest Secondary School,21/07/2005,SP,14,9,M,Gieseke,Solo
+25,Spin,1,1,Darin,Hill Academy,06/12/2006,SP,14,1,M,Rather,Solo
+27,Spin,6,1,Fernando,Forest Secondary School,13/10/2006,SP,14,9,M,Burchfield,Solo
+28,Spin,5,1,Sanjuanita,Hartle Sixth Form,01/06/2007,SP,14,4,F,Bradham,Solo
+42,Spin,4,1,Kortney,Forest Secondary School,16/07/2000,SP,14,9,F,Scanlon,Solo
+46,Spin,4,1,Arnoldo,Elm Academy,08/05/2005,SP,14,6,M,Janecek,Solo
+8,Spin,1,1,Norman,Atlantic Free School,10/05/2003,SP,14,8,M,Krok,Solo
+12,Spin,1,3,Shad,Jackson Free School,12/03/2001,SP,15,7,M,Human,Flying 1
+17,Spin,1,3,Brittaney,Prospect Secondary School,14/01/2005,SP,15,3,F,Webber,Flying 1
+19,Spin,6,3,Cecil,Hartle Sixth Form,03/04/2002,SP,15,4,M,Wiltz,Flying 1
+23,Spin,6,3,Delilah,Arch Secondary School,19/02/2000,SP,15,5,F,Fagundes,Flying 1
+24,Spin,3,3,Sidney,Hill Academy,11/07/2001,SP,15,1,M,Mcgoldrick,Flying 1
+28,Spin,5,3,Sanjuanita,Hartle Sixth Form,01/06/2007,SP,15,4,F,Bradham,Flying 1
+3,Spin,5,3,Rochelle,Canterbury Free School,06/11/2002,SP,15,2,F,Meche,Flying 1
+37,Spin,1,3,Deloise,Prospect Secondary School,26/05/2007,SP,15,3,F,David,Flying 1
+38,Spin,2,3,Kaitlyn,Arch Secondary School,15/02/2004,SP,15,5,F,Glessner,Flying 1
+4,Spin,3,3,Larhonda,Jackson Free School,13/10/2003,SP,15,7,F,Mancino,Flying 1
+42,Spin,1,3,Kortney,Forest Secondary School,16/07/2000,SP,15,9,F,Scanlon,Flying 1
+43,Spin,5,3,Lorenza,Hartle Sixth Form,26/02/2002,SP,15,4,F,Kasprzak,Flying 1
+44,Spin,2,3,Kiara,Atlantic Free School,05/04/2004,SP,15,8,F,Goldie,Flying 1
+45,Spin,4,3,Thresa,Hill Academy,21/10/2001,SP,15,1,F,Dingess,Flying 1
+47,Spin,5,3,Gilberto,Hartle Sixth Form,15/05/2001,SP,15,4,M,Fontes,Flying 1
+49,Spin,3,3,Florentina,Hill Academy,22/07/2003,SP,15,1,F,Silverman,Flying 1
+5,Spin,3,3,Hermila,Arch Secondary School,05/04/2000,SP,15,5,F,Guse,Flying 1
+6,Spin,4,3,Glen,Hill Academy,11/11/2003,SP,15,1,M,Derksen,Flying 1
+7,Spin,6,3,Isidro,Jackson Free School,14/02/2000,SP,15,7,M,Thaler,Flying 1
+8,Spin,6,3,Norman,Atlantic Free School,10/05/2003,SP,15,8,M,Krok,Flying 1
+9,Spin,5,3,Benita,Arch Secondary School,10/02/2001,SP,15,5,F,Arvin,Flying 1
+11,Spin,3,3,Clark,Arch Secondary School,25/10/2001,SP,16,5,M,Tatro,Flying 2
+12,Spin,5,3,Shad,Jackson Free School,12/03/2001,SP,16,7,M,Human,Flying 2
+13,Spin,4,3,Edward,Atlantic Free School,14/08/2002,SP,16,8,M,Wallace,Flying 2
+14,Spin,5,3,Lue,Hartle Sixth Form,13/12/2006,SP,16,4,F,Sherburne,Flying 2
+17,Spin,1,3,Brittaney,Prospect Secondary School,14/01/2005,SP,16,3,F,Webber,Flying 2
+19,Spin,6,3,Cecil,Hartle Sixth Form,03/04/2002,SP,16,4,M,Wiltz,Flying 2
+26,Spin,3,3,Hassan,Forest Secondary School,21/11/2003,SP,16,9,M,Bavaro,Flying 2
+3,Spin,4,3,Rochelle,Canterbury Free School,06/11/2002,SP,16,2,F,Meche,Flying 2
+33,Spin,3,3,Harriett,Atlantic Free School,28/11/2006,SP,16,8,F,Kettner,Flying 2
+37,Spin,3,3,Deloise,Prospect Secondary School,26/05/2007,SP,16,3,F,David,Flying 2
+4,Spin,3,3,Larhonda,Jackson Free School,13/10/2003,SP,16,7,F,Mancino,Flying 2
+45,Spin,6,3,Thresa,Hill Academy,21/10/2001,SP,16,1,F,Dingess,Flying 2
+47,Spin,6,3,Gilberto,Hartle Sixth Form,15/05/2001,SP,16,4,M,Fontes,Flying 2
+10,Spin,2,1,Terrilyn,Hill Academy,18/12/2006,SP,8,1,F,Delozier,Sit
+18,Spin,3,1,Lanny,Forest Secondary School,17/06/2001,SP,8,9,M,Brune,Sit
+22,Spin,4,1,Lurlene,Canterbury Free School,19/02/2005,SP,8,2,F,Smitherman,Sit
+25,Spin,3,1,Darin,Hill Academy,06/12/2006,SP,8,1,M,Rather,Sit
+26,Spin,1,1,Hassan,Forest Secondary School,21/11/2003,SP,8,9,M,Bavaro,Sit
+32,Spin,4,1,Evalyn,Hartle Sixth Form,07/08/2006,SP,8,4,F,Tedder,Sit
+34,Spin,2,1,Garfield,Elm Academy,01/10/2000,SP,8,6,M,Fajardo,Sit
+38,Spin,2,1,Kaitlyn,Arch Secondary School,15/02/2004,SP,8,5,F,Glessner,Sit
+41,Spin,1,1,Chantell,Jackson Free School,27/12/2006,SP,8,7,F,Dorazio,Sit
+42,Spin,5,1,Kortney,Forest Secondary School,16/07/2000,SP,8,9,F,Scanlon,Sit
+46,Spin,1,1,Arnoldo,Elm Academy,08/05/2005,SP,8,6,M,Janecek,Sit
+49,Spin,6,1,Florentina,Hill Academy,22/07/2003,SP,8,1,F,Silverman,Sit
+6,Spin,1,1,Glen,Hill Academy,11/11/2003,SP,8,1,M,Derksen,Sit
+9,Spin,4,1,Benita,Arch Secondary School,10/02/2001,SP,8,5,F,Arvin,Sit
+5,Spin,6,2,Hermila,Arch Secondary School,05/04/2000,SP,9,5,F,Guse,Camel
+10,Spin,1,2,Terrilyn,Hill Academy,18/12/2006,SP,9,1,F,Delozier,Camel
+11,Spin,6,2,Clark,Arch Secondary School,25/10/2001,SP,9,5,M,Tatro,Camel
+14,Spin,1,2,Lue,Hartle Sixth Form,13/12/2006,SP,9,4,F,Sherburne,Camel
+15,Spin,6,2,Marceline,Hill Academy,19/02/2000,SP,9,1,F,Doane,Camel
+18,Spin,3,2,Lanny,Forest Secondary School,17/06/2001,SP,9,9,M,Brune,Camel
+20,Spin,5,2,Royce,Atlantic Free School,02/02/2006,SP,9,8,M,Mcbeth,Camel
+21,Spin,2,2,Victor,Forest Secondary School,21/07/2005,SP,9,9,M,Gieseke,Camel
+23,Spin,4,2,Delilah,Arch Secondary School,19/02/2000,SP,9,5,F,Fagundes,Camel
+24,Spin,6,2,Sidney,Hill Academy,11/07/2001,SP,9,1,M,Mcgoldrick,Camel
+26,Spin,4,2,Hassan,Forest Secondary School,21/11/2003,SP,9,9,M,Bavaro,Camel
+39,Spin,5,2,Karen,Jackson Free School,28/06/2003,SP,9,7,F,Westervelt,Camel
+4,Spin,3,2,Larhonda,Jackson Free School,13/10/2003,SP,9,7,F,Mancino,Camel
+48,Spin,4,2,Arletta,Canterbury Free School,20/03/2001,SP,9,2,F,Abalos,Camel
+49,Spin,2,2,Florentina,Hill Academy,22/07/2003,SP,9,1,F,Silverman,Camel
+6,Spin,1,2,Glen,Hill Academy,11/11/2003,SP,9,1,M,Derksen,Camel
+12,Spin,6,2,Shad,Jackson Free School,12/03/2001,SP,10,7,M,Human,Layback
+13,Spin,4,2,Edward,Atlantic Free School,14/08/2002,SP,10,8,M,Wallace,Layback
+14,Spin,4,2,Lue,Hartle Sixth Form,13/12/2006,SP,10,4,F,Sherburne,Layback
+15,Spin,4,2,Marceline,Hill Academy,19/02/2000,SP,10,1,F,Doane,Layback
+22,Spin,5,2,Lurlene,Canterbury Free School,19/02/2005,SP,10,2,F,Smitherman,Layback
+31,Spin,5,2,Mellisa,Atlantic Free School,15/02/2001,SP,10,8,F,Telles,Layback
+37,Spin,4,2,Deloise,Prospect Secondary School,26/05/2007,SP,10,3,F,David,Layback
+45,Spin,5,2,Thresa,Hill Academy,21/10/2001,SP,10,1,F,Dingess,Layback
+48,Spin,4,2,Arletta,Canterbury Free School,20/03/2001,SP,10,2,F,Abalos,Layback
+6,Spin,1,2,Glen,Hill Academy,11/11/2003,SP,10,1,M,Derksen,Layback
+9,Spin,6,2,Benita,Arch Secondary School,10/02/2001,SP,10,5,F,Arvin,Layback
+13,Spin,5,3,Edward,Atlantic Free School,14/08/2002,SP,11,8,M,Wallace,Cross Foot
+22,Spin,3,3,Lurlene,Canterbury Free School,19/02/2005,SP,11,2,F,Smitherman,Cross Foot
+25,Spin,4,3,Darin,Hill Academy,06/12/2006,SP,11,1,M,Rather,Cross Foot
+27,Spin,5,3,Fernando,Forest Secondary School,13/10/2006,SP,11,9,M,Burchfield,Cross Foot
+3,Spin,2,3,Rochelle,Canterbury Free School,06/11/2002,SP,11,2,F,Meche,Cross Foot
+34,Spin,2,3,Garfield,Elm Academy,01/10/2000,SP,11,6,M,Fajardo,Cross Foot
+35,Spin,6,3,Tammera,Elm Academy,18/03/2005,SP,11,6,F,Parham,Cross Foot
+36,Spin,2,3,Walton,Jackson Free School,10/03/2005,SP,11,7,M,Coney,Cross Foot
+38,Spin,6,3,Kaitlyn,Arch Secondary School,15/02/2004,SP,11,5,F,Glessner,Cross Foot
+40,Spin,3,3,Cornelia,Atlantic Free School,26/06/2007,SP,11,8,F,Shoemaker,Cross Foot
+42,Spin,1,3,Kortney,Forest Secondary School,16/07/2000,SP,11,9,F,Scanlon,Cross Foot
+49,Spin,1,3,Florentina,Hill Academy,22/07/2003,SP,11,1,F,Silverman,Cross Foot
+9,Spin,4,3,Benita,Arch Secondary School,10/02/2001,SP,11,5,F,Arvin,Cross Foot
